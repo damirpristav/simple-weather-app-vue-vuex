@@ -1,4 +1,6 @@
-# weather-app
+# Simple weather app with vue js & vuex
+
+[Live Preview](https://adoring-jang-3af953.netlify.app/)
 
 ## Project setup
 ```
